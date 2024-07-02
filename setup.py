@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='json-toolkit',
-    version='0.2.0',
+    version='0.2.1',
     packages=find_packages(),
     install_requires=[],
     entry_points={},
@@ -10,7 +10,7 @@ setup(
     description='A simple library for JSON manipulation',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/S1lentAFK/json_toolkit',
+    url='https://github.com/S1lentAFK/json-toolkit',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
