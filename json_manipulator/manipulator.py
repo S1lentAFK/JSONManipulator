@@ -1,7 +1,7 @@
 import json
 
 
-class JSONManipulator:
+class JSONToolkit:
     @staticmethod
     def convert(file_path: str, operation: str):
         with open(file_path, 'r') as file:

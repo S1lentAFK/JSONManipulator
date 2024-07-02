@@ -1,1 +1,1 @@
-from .manipulator import JSONManipulator
+from .manipulator import JSONToolkit
