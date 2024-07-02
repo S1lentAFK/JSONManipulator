@@ -21,4 +21,4 @@ JSONManipulator.convert(json_file_path, 'from-oneline')
 You can install the library using pip:
 
 ```sh
-pip install json-manipulator
+pip install JSONManipulator
